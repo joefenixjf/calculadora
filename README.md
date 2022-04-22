@@ -1,6 +1,6 @@
 # Projeto Calculadora
 
-Projeto criado usando reactJs 
+Projeto criado usando React Js 
 
 para rodar o projeto:
 
